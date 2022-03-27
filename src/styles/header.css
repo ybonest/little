@@ -1,0 +1,9 @@
+.logo a {
+    width: 258px;
+    height: 39px;
+    display: block;
+    color: #64854c;
+    text-decoration: none;
+    transition-duration: .2s;
+    transition-property: opacity;
+}
